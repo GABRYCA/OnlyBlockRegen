@@ -1,0 +1,5 @@
+Permissions:
+  OnlyBlockRegen-CommandList: "OnlyBlockRegen.Command-List"
+  OnlyBlockRegen-MainGUI: "OnlyBlockRegen.GUI"
+  AddBlockPermission: "OnlyBlockRegen.AddBlock"
+  BlockBreak: "OnlyBlockRegen.BreakBlock"

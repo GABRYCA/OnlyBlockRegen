@@ -1,0 +1,16 @@
+name: OnlyBlockRegen
+version: 0.1
+author: GABRYCA
+main: it.gabryca.onlyblockregen.Main
+api-version: 1.13
+website: https://www.gabryca.tk
+commands:
+  OnlyBlockRegen:
+    description: Show the commands
+    usage: /<command>
+  OnlyBlockGUI:
+    description: Open the GUI manager
+    usage: /<command>
+  OnlyBlockAdd:
+    description: Add a block
+    usage: /<command> <Block_ID> <Delay>
